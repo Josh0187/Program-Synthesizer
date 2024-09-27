@@ -1,0 +1,14 @@
+synth\core\ASTNode.class
+synth\core\Interpreter.class
+synth\cfg\Terminal.class
+synth\core\Example.class
+synth\core\TopDownEnumSynthesizer.class
+synth\util\FileUtils.class
+synth\util\Parser.class
+synth\cfg\Production.class
+synth\Main.class
+synth\cfg\CFG.class
+synth\core\Program.class
+synth\core\ISynthesizer.class
+synth\cfg\NonTerminal.class
+synth\cfg\Symbol.class
